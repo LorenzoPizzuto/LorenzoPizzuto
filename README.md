@@ -1,5 +1,5 @@
 # 🌍 About Me:
-Hi, I'm Lorenzo, an App Innovator and Business Strategist from the Apple Developer Academy. My passion is transforming complex ideas into concrete and impactful products. Specializing in SwiftUI, I am interested in every phase of development: from design to monetization. I am a quick learner and believe in creating value through technology.
+Hi, I'm Lorenzo, an App Innovator and Business Strategist from the Apple Developer Academy. My passion is transforming complex ideas into concrete and impactful products. Specializing in SwiftUI, I am interested in every phase of development: from code to monetization. I am a quick learner and believe in creating value through technology.
 
 
 ## 🌐 Socials:
